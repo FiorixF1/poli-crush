@@ -1,0 +1,12 @@
+B,F,A,A,F,A,B,F,F,A;
+A,F,B,F,B,F,B,A,A,B;
+F,B,A,A,F,B,A,B,A,A;
+F,B,F,B,A,B,A,F,F,B;
+A,A,B,A,A,F,F,B,A,F;
+F,A,B,A,B,B,F,F,A,A;
+F,B,F,B,A,B,A,B,B,A;
+A,B,F,A,F,F,A,F,F,B;
+F,A,B,B,A,B,B,F,B,B;
+A,B,F,F,A,B,B,A,B,A;
+
+Il punteggio realizzato e' 918.

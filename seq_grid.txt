@@ -1,0 +1,10 @@
+F,F,B,F,F,B,B,F,F,B;
+B,A,A,B,B,A,F,A,B,A;
+F,B,A,A,F,A,B,F,A,F;
+B,F,F,B,F,B,B,F,A,F;
+A,A,B,F,A,A,F,A,F,B;
+B,F,A,B,A,A,B,B,F,A;
+A,F,A,F,F,B,B,F,A,F;
+B,A,F,A,F,A,A,F,F,B;
+B,A,F,B,B,A,F,A,F,A;
+F,F,A,F,B,B,A,A,B,A;
